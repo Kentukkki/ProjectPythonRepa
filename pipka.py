@@ -1,0 +1,1 @@
+print('Sovet Union')
